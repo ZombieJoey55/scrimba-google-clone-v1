@@ -1,4 +1,4 @@
-This is the **updated** project for the **HTML and CSS Fundamentals** -> **Intro to HTML** module.
+This is the **original** project for the **HTML and CSS Fundamentals** -> **Intro to CSS** module.
 
 # Getting Started
 
