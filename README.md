@@ -1,11 +1,21 @@
+This is the **updated** project for the **HTML and CSS Fundamentals** -> **Intro to HTML** module.
+
 # Getting Started
+
 Install the dependencies and run the project
+
 ```
 npm install
 npm start
 ```
 
 Head over to https://vitejs.dev/ to learn more about configuring vite
+
+## Special Offer
+
+Sign up to Scrimba using my link and get 20% off your membership:
+👉 https://scrimba.com/?via=u019e9e
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
